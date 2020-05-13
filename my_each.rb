@@ -8,6 +8,6 @@ def my_each(array)
     i = i + 1 
   
 end
-
+collection
 end
 my_each(collection)
