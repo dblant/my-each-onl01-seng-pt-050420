@@ -10,4 +10,5 @@ def my_each(array)
 end
 collection
 end
+end
 my_each(collection)
